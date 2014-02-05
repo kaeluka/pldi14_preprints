@@ -51,6 +51,6 @@ Accepted papers: http://conferences.inf.ed.ac.uk/pldi2014/acceptedpapers.html
  - Automating Formal Proofs for Reactive Systems -- Daniel Ricketts, UC San Diego; Valentin Robert, UC San Diego; Dongseok Jang, UC San Diego; Zachary Tatlock, University of Washington; Sorin Lerner, UC San Diego.
  - Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures -- Phitchaya Mangpo Phothilimthana, University of California, Berkeley; Tikhon Jelvis, University of California, Berkeley; Rohin Shah, University of California, Berkeley; Nishant Totla, University of California, Berkeley; Sarah Chasins, University of California, Berkeley; Rastislav Bodik, University of California, Berkeley.
  - A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages -- Emina Torlak, U.C. Berkeley; Ras Bodik, U.C. Berkeley.
- - Resource Limits for Haskell -- Edward Z. Yang, Stanford University; David Mazi&#232;res, Stanford University.
+ - [Resource Limits for Haskell](http://ezyang.com/papers/ezyang14-rlimits.pdf) -- Edward Z. Yang, Stanford University; David Mazi&#232;res, Stanford University.
  - A Framework for Enhancing Data Reuse via Associative Reordering -- Kevin Stock, The Ohio State University; Louis-no&#235;l Pouchet, University of California Los Angeles; Fabrice Rastello, Inria; J. Ramanujam, Louisiana State University; P. Sadayappan, The Ohio State University.
  - Tracelet-Based Code Search in Executables -- Yaniv David, Technion; Eran Yahav, Technion.
